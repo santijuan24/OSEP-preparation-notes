@@ -1,0 +1,38 @@
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Archivos de sistema
+Thumbs.db
+.tmp
+
+# Archivos de notas personales (privadas)
+*.private.md
+/private/
+
+# Archivos temporales
+*.bak
+*.log
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Directorios de dependencias
+node_modules/
+venv/
+env/
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.tar.gz
+
+# Directorios de salida
+/dist/
+/build/
+/out/
