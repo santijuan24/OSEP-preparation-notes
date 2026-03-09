@@ -1,7 +1,3 @@
-# Create a Markdown file with many prompt injection payloads and Spanish translations
-import pypandoc, textwrap, os
-
-content = """
 # Prompt Injection Payload Cheat Sheet (AI Red Teaming)
 
 Guía rápida de **payloads comunes usados en AI Red Team / Prompt Injection**.
